@@ -1,6 +1,6 @@
 # 🚲 Bike Sales Dashboard (Excel Project)
 
-![Dashboard Screenshot](output.png)
+![Dashboard Screenshot](Output.png)
 
 ## 📌 Overview
 
