@@ -1,5 +1,7 @@
 # 🚲 Bike Sales Dashboard (Excel Project)
 
+![Dashboard Screenshot](output.png)
+
 ## 📌 Overview
 
 The **Bike Sales Dashboard** is an interactive data visualization project built using Microsoft Excel. It helps analyze customer purchasing behavior based on different factors like income, age, gender, region, and commute distance.
